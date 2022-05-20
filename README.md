@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw" width="100"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
 
 <!--
