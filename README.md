@@ -4,7 +4,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 </div>
-
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=DinaAlaa99&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/in/dina-alaa-92153018a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **DinaAlaa99/DinaAlaa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
