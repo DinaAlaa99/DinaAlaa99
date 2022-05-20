@@ -53,8 +53,7 @@ I am a Full Stack Developer
 
 ---
 
-:fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=DinaAlaa99
+:fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=DinaAlaa99
 
 <!--
 ### Hi there 👋
