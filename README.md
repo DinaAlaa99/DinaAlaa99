@@ -52,9 +52,9 @@ I am a Full Stack Developer
 </div>
 
 ---
-
 :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DinaAlaa99&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DinaAlaa99&&background=000000)](https://git.io/streak-stats)
 
 <!--
 ### Hi there 👋
