@@ -50,7 +50,9 @@ I am a Full Stack Developer
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" **alt="react" width="40" height="40"/>
 
 </div>
+
 ---
+
 :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=DinaAlaa99
 
