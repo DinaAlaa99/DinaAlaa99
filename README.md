@@ -15,7 +15,7 @@
    <img src="https://komarev.com/ghpvc/?username=DinaAlaa99&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-<br>
+---
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
@@ -27,6 +27,8 @@ I am a Full Stack Developer
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/DinaAlaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dina-alaa-92153018a/)
+
+---
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -48,6 +50,10 @@ I am a Full Stack Developer
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" **alt="react" width="40" height="40"/>
 
 </div>
+---
+:fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=DinaAlaa99
+
 <!--
 ### Hi there 👋
 **DinaAlaa99/DinaAlaa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
