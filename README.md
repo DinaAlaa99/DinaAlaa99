@@ -8,9 +8,6 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dina-alaa-92153018a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <div>
    <img src="https://komarev.com/ghpvc/?username=DinaAlaa99&style=flat-square&color=blue" alt=""/>
   </div>
@@ -23,13 +20,12 @@
 </div> -->
 
 :woman_technologist: About Me :
-I am a Full Stack Developer
+Organized and self-motivated Software Engineer with two years of practical experience, Skilled in full-stack development, handling back-end complexities with Spring Boot, and creating front-end interfaces using Angular. Experienced with relational databases such as PostgreSQL and SQL Server. Proficient in Agile methodologies, ensuring efficient and adaptable project delivery.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I’m currently working on **SaaS ERP solution customized for import and distribution for SMEs in Egypt**
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/DinaAlaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dina-alaa-92153018a/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinaalaawaly99@gmail.com)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/DinaAlaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dina-alaa-92153018a/)
 
 ---
 :hammer_and_wrench: Languages and Tools :
